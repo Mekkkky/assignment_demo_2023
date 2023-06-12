@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"encoding/json"
-	"log"
 	"github.com/redis/go-redis/v9"
 )
 
